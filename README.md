@@ -1,4 +1,4 @@
-## [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Ibarra+Real+Nova&size=27&color=B61E1E&center=falso&vCenter=falso&lines=Ol%C3%A1%2C+eu+sou+a+Thammylin!)](https://git.io/typing-svg)
+## [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Ibarra+Real+Nova&size=27&color=B61E1E&center=falso&vCenter=falso&lines=Ol%C3%A1%2C+eu+sou+a+Thammylin!+%F0%9F%96%96%F0%9F%8F%BE)](https://git.io/typing-svg)
 
 - 👩🏾‍💻 Estou aprendendo: Lógica de programação, HTML5 e CSS3
 - 🌻 Pronomes:Ela/dela
